@@ -1,0 +1,9 @@
+main: com.github.dreamsmoke.chunk.ChunkUnloading
+name: ChunkUnloading
+version: 1.6.4
+database: false
+author: DreamSmoke/MoonshineBucket
+website: https://vk.com/moonshinebucket
+description: Отгрузка чанков во всех мирах при запуске сервера.
+softdepend:
+- CraftBukkit
